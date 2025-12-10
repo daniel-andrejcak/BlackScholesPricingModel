@@ -1,6 +1,6 @@
 # Black-Scholes Pricing Model
 
-An interactive Jupyter Notebook implementation of the Black-Scholes-Merton (BSM) option pricing model with visual heatmap for option pricing and P&L.
+An interactive Jupyter Notebook implementation of the Black-Scholes-Merton (BSM) option pricing model with visual heatmap for option pricings and P&L.
 
 ## Installation
 

@@ -12,9 +12,6 @@ An interactive Jupyter Notebook implementation of the Black-Scholes-Merton (BSM)
 ### Setup Instructions
 
 1. **Clone the repository** (or download the files):
-   ```bash
-   git clone <repository-url>
-   ```
 
 2. **Create a virtual environment**:
    
